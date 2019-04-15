@@ -1,0 +1,80 @@
+Grid Maze
+
+Value Iteration
+Starting reachability analysis
+Finished reachability analysis; # states: 2241
+Passes: 123
+Total Runtime: 1526022981
+Num generated: 8960; num unique: 2241
+
+Policy Iteration
+Total policy iterations: 73
+Total Value Iterations: 1851
+Total Time: 19374982377
+Num generated: 8960; num unique: 2241
+
+
+Small Grid 30%
+
+Value Iteration 30%
+Starting reachability analysis
+Finished reachability analysis; # states: 104
+Passes: 193
+Total Runtime: 582182569
+Num generated: 1648; num unique: 104
+
+Policy ITeration 30 %
+Starting reachability analysis
+Total policy iterations: 5
+Total Value Iterations: 305
+Total Time: 830776886
+Num generated: 1648; num unique: 104
+
+Small Grid 25%
+
+Value Iteration
+Starting reachability analysis
+Finished reachability analysis; # states: 104
+Passes: 236
+Total Runtime: 683528518
+Num generated: 1648; num unique: 104
+
+Policy ITeration
+Starting reachability analysis
+Finished reachability analysis; # states: 103
+Total policy iterations: 5
+Total Value Iterations: 363
+Total Time: 979628039
+Num generated: 1648; num unique: 104
+
+Small Brid 20%
+
+Value Iteration
+Starting reachability analysis
+Finished reachability analysis; # states: 104
+Passes: 206
+Total Runtime: 603549777
+Num generated: 1648; num unique: 104
+
+Policy ITeration
+Starting reachability analysis
+Finished reachability analysis; # states: 103
+Total policy iterations: 5
+Total Value Iterations: 300
+Total Time: 655708434
+Num generated: 1648; num unique: 104
+
+
+Q Learning
+
+Small Grid 80%
+
+Total Time: 1190715076
+
+Small Grid 50%
+
+Total Time: 1698514271
+
+Small Grid 20%
+
+Total Time: 4164442124
